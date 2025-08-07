@@ -1,0 +1,30 @@
+# Original dependencies
+mesa==3.2.0
+sentence-transformers
+nltk
+streamlit
+plotly
+numpy
+pandas
+networkx
+
+# RL Dependencies
+gymnasium
+stable-baselines3[extra]
+tensorboard
+torch
+torchvision
+torchaudio
+
+# GAN Dependencies
+transformers
+datasets
+accelerate
+evaluate
+scikit-learn
+
+# Additional utilities
+wandb  # For experiment tracking
+matplotlib
+seaborn
+tqdm
