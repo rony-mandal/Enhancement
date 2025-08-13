@@ -1,0 +1,19 @@
+# Original dependencies
+mesa==3.2.0
+sentence-transformers
+nltk
+streamlit
+plotly
+numpy
+pandas
+networkx
+
+# New AI dependencies
+torch>=1.9.0
+torchvision
+transformers>=4.20.0
+stable-baselines3
+gym
+scikit-learn
+matplotlib
+seaborn
